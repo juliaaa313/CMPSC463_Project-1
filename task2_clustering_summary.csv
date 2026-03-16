@@ -1,0 +1,5 @@
+cluster_id,cluster_size,majority_class,majority_count
+0,3019,Moderately High RUL,1114
+1,1989,Moderately High RUL,682
+2,2497,Moderately High RUL,1397
+3,2495,Moderately Low RUL,1567
